@@ -16,7 +16,9 @@
 	<description>SpringCloudGateway</description>
     <modules>
         <module>APIGateway</module>
-    </modules>
+        <module>OrderService</module>
+		<module>ProductService</module>
+	</modules>
     <properties>
 		<java.version>21</java.version>
 	</properties>
